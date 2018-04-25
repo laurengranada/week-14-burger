@@ -27,7 +27,7 @@ Try it on mobile as well:
 
 <img src="https://github.com/laurengranada/week-14-burger/blob/master/read-images/mobile.jpeg" width="300">
 
-###Languages/Technologies Used:
+### Languages/Technologies Used:
 - HTML, CSS, Javascript
 - MySQL (Sequel Pro)
 - Node
