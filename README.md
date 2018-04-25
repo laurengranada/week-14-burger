@@ -9,7 +9,7 @@ This full-stack application is a burger eating machine! The user can log their o
 
 That updates the mySQL database live:
 
-![alt text](https://github.com/laurengranada/week-14-burger/blob/master/read-images/mySQLadd.png)
+<img src="https://github.com/laurengranada/week-14-burger/blob/master/read-images/mySQLadd.png" width="600">
 
 and lists the burger under the "Burgers" section:
 
@@ -21,10 +21,10 @@ The user can also choose to devour that burger:
 
 That updates the "devoured" value to 1 (true) in the mySQL database:
 
-<img src="https://github.com/laurengranada/week-14-burger/blob/master/read-images/before.png" width="600">
-<img src="https://github.com/laurengranada/week-14-burger/blob/master/read-images/after.png" width="600">
+<img src="https://github.com/laurengranada/week-14-burger/blob/master/read-images/before.png" width="600"><img src="https://github.com/laurengranada/week-14-burger/blob/master/read-images/after.png" width="600">
 
 Try it on mobile as well:
+
 <img src="https://github.com/laurengranada/week-14-burger/blob/master/read-images/mobile.jpeg" width="300">
 
 ###Languages/Technologies Used:
