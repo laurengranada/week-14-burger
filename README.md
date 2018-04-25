@@ -28,7 +28,7 @@ Try it on mobile as well:
 
 ![alt text](https://github.com/laurengranada/week-14-burger/blob/master/read-images/mobile.jpeg)
 
-<img src="https://github.com/laurengranada/week-14-burger/blob/master/read-images/mobile.jpeg" width="100">
+<img src="https://github.com/laurengranada/week-14-burger/blob/master/read-images/mobile.jpeg" width="300">
 
 ###Languages/Technologies Used:
 - HTML, CSS, Javascript
