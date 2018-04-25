@@ -37,4 +37,4 @@ Try it on mobile as well:
 - MVC design pattern
 - method-override npm
 - body-parser npm
-- JawsDB to connect database to Heroku
+- JawsDB to connect database to Heroku -- Check out my article on how to do this: https://medium.com/@granada.lauren/setting-up-your-heroku-site-with-jawsdb-using-sequel-pro-5af8c6cc0f9f
