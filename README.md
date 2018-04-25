@@ -26,7 +26,7 @@ That updates the "devoured" value to 1 (true) in the mySQL database:
 
 Try it on mobile as well:
 
-![alt text](https://github.com/laurengranada/week-14-burger/blob/master/read-images/mobile.jpeg){:width="100px"}
+![alt text](https://github.com/laurengranada/week-14-burger/blob/master/read-images/mobile.jpeg&s=100)
 
 
 ###Languages/Technologies Used:
