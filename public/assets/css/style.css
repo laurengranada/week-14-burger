@@ -23,8 +23,8 @@ ul{
 	align-content: center;
 }
 li{
-	margin-right: 20px;
-	margin-left: 20px;
+	margin-right: 100px;
+	margin-left: 100px;
 	display: inline-block;
 }
 img{
@@ -40,5 +40,18 @@ img{
 	background-color: #d9d7d6;
 	align-content: center;
 }
+.main-container{
+	padding: 17px;
+}
 
-
+/*for mobile*/
+@media only screen and (max-width: 740px) {
+	li{
+	margin-right: 50px;
+	margin-left: 50px;
+	display: inline-block;
+	}
+	.main-container{
+	padding: 17px;
+	}
+}
