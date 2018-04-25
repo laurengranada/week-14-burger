@@ -21,13 +21,10 @@ The user can also choose to devour that burger:
 
 That updates the "devoured" value to 1 (true) in the mySQL database:
 
-![alt text](https://github.com/laurengranada/week-14-burger/blob/master/read-images/before.png)
-![alt text](https://github.com/laurengranada/week-14-burger/blob/master/read-images/after.png)
+<img src="https://github.com/laurengranada/week-14-burger/blob/master/read-images/before.png" width="600">
+<img src="https://github.com/laurengranada/week-14-burger/blob/master/read-images/after.png" width="600">
 
 Try it on mobile as well:
-
-![alt text](https://github.com/laurengranada/week-14-burger/blob/master/read-images/mobile.jpeg)
-
 <img src="https://github.com/laurengranada/week-14-burger/blob/master/read-images/mobile.jpeg" width="300">
 
 ###Languages/Technologies Used:
